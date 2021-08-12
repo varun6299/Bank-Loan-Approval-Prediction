@@ -38,7 +38,7 @@ Metric to increase was **ACCURACY**
 - Highest accuracy calculated for tuned decision tree on test i.e 81%.
 
 #### STACKING TECHNIQUES - 
-- Models were clubbed together to create super models using voting and stacking classiier.
+- Models were clubbed together to create super models using voting and stacking classifier.
 - No improvement in performance.
 - Best overall score on test - 80%
 
