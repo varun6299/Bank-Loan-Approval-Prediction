@@ -5,6 +5,9 @@ This is a Machine Learning Classification task as a part of the Loan Prediction 
 
 Metric to increase was **ACCURACY**
 
+Click here to view loan prediction competition - https://datahack.analyticsvidhya.com/contest/all/
+**(THE COMPETITION MIGHT GET REMOVED AFTER DURATION FOR COMPETITION EXPIRES)**
+
 ### DATA CLEANING - 
 - Datatype of certain columns were wrongly identified. Corrected them. 
 - Categories names in certain feature not making sense. Categories names made clear. 
